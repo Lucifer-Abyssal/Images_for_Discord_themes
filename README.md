@@ -15,4 +15,8 @@ These images are used by me exclusively for personal Discord theme backgrounds.
 - **File:** [`149166.jpg`](https://github.com/Lucifer-Abyssal/Images_for_Discord_themes/blob/main/149166.jpg)  
 - **Original Source:** [wallpaperflare.com/grass-field-during-nighttime-summer-fog-tree-the-moon-plant-wallpaper-qgmgq](https://www.wallpaperflare.com/grass-field-during-nighttime-summer-fog-tree-the-moon-plant-wallpaper-qgmgq)
 
+### [Reddit](https://www.reddit.com)
+- **File:** [`14d93iobj0q91.jpg`](https://github.com/Lucifer-Abyssal/Images_for_Discord_themes/blob/main/14d93iobj0q91.jpg)
+- **Original Source:** [reddit.com/r/darkwallpaper/comments/xnoilf/dark_waves_3840_x_2160/](https://www.reddit.com/r/darkwallpaper/comments/xnoilf/dark_waves_3840_x_2160/)
+
 *Please check the original sources for licensing details before reusing these images.*
